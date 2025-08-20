@@ -31,3 +31,35 @@ Mental health is harder to detect than physical illness. Early awareness tools c
 
 **Example interaction:**  
 
+Journal entry: "I feel exhausted today. Work has been overwhelming."
+→ Sentiment detected: NEGATIVE (confidence 0.92)
+→ Suggestion:Try a short walk or mindfulness exercise. If these feelings persist, talk to someone you trust.
+
+
+This tool is for:  
+* Students  
+* Employees  
+* Anyone who wants to monitor and improve their well-being  
+
+---
+
+## Data sources and AI methods  
+
+* **Data sources:**  
+  - User input (mood logs, journaling)  
+  - Public datasets on mental health (e.g. WHO, open survey data)  
+* **AI techniques:**  
+  - Natural Language Processing (NLP) for journaling analysis  
+  - Sentiment analysis to detect mood trends  
+  - Anomaly detection to flag sudden changes  
+  - Simple recommendation system for well-being tips  
+
+---
+
+## Demo Code  
+
+See `demo.py` for a working prototype. Run with:  
+
+```bash
+pip install -r requirements.txt
+python demo.py
