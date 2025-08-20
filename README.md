@@ -55,33 +55,6 @@ This tool is for:
   - Simple recommendation system for well-being tips  
 
 
-Challenges
-
-Not a replacement for professional therapy
-
-Privacy concerns: handling sensitive personal data securely
-
-Risk of bias in NLP models (cultural/language nuances)
-
-Users may not log consistently
-
-What next?
-
-Add integration with wearables (heart rate, sleep)
-
-Offer multilingual support for global reach
-
-Collaborate with healthcare providers for referral pathways
-
-Build anonymous community features for peer support
-
-Acknowledgments
-
-Inspired by mental health apps like Woebot, Wysa, and Daylio
-
-Uses Hugging Face Transformers
----
-
 ## Demo Code  
 
 See `demo.py` for a working prototype. Run with:  
