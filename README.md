@@ -54,15 +54,6 @@ This tool is for:
   - Anomaly detection to flag sudden changes  
   - Simple recommendation system for well-being tips  
 
----
-
-## Demo Code  
-
-See `demo.py` for a working prototype. Run with:  
-
-```bash
-pip install -r requirements.txt
-python demo.py
 
 Challenges
 
@@ -89,3 +80,12 @@ Acknowledgments
 Inspired by mental health apps like Woebot, Wysa, and Daylio
 
 Uses Hugging Face Transformers
+---
+
+## Demo Code  
+
+See `demo.py` for a working prototype. Run with:  
+
+```bash
+pip install -r requirements.txt
+python demo.py
